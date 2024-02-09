@@ -2,4 +2,4 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/aestawoo/cpaneltest.a-e-s-t-h-e-t-i-c.church
-    - /bin/cp -R html $DEPLOYPATH
+    - /bin/cp -R html/* $DEPLOYPATH
