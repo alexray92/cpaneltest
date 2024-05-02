@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/aestawoo/cpaneltest.a-e-s-t-h-e-t-i-c.church
+    - export DEPLOYPATH=/home/cybeswfy/git.cybermaniacs.pizza/alexray
     - /bin/cp -R html/* $DEPLOYPATH
